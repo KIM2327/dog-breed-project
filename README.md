@@ -20,7 +20,7 @@ Participants: 익명, 익명, 익명, 익명, 익명
 
 ![개요1.png](https://user-images.githubusercontent.com/102518623/160393095-03f06091-1f7e-46a1-b0ae-2deb9a7655e5.png)
 
-![개요2.png](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%2035087/%EA%B0%9C%EC%9A%942.png)
+![개요2.png](https://user-images.githubusercontent.com/102518623/160393239-d12c879a-eee3-493a-9fb3-1228632efdf8.png)
 
 ## 데이터 수집 및 전처리
 
@@ -47,7 +47,7 @@ Participants: 익명, 익명, 익명, 익명, 익명
     - loss : 12.6
     - Accuracy : 77.8%
     
-    ![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%2035087/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/102518623/160393252-7d3e12a3-c529-4edd-b407-b1ce54abd0a0.png)
     
 
 ## 웹 서비스
@@ -56,6 +56,6 @@ Participants: 익명, 익명, 익명, 익명, 익명
 - 웹 프레임워크 : Bootstrap,Flask
 - 웹페이지
     
-    ![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%2035087/Untitled%201.png)
+    ![Untitled](https://user-images.githubusercontent.com/102518623/160393259-5a97c959-bd80-408f-8de0-f880061f4a81.png)
     
-    ![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%2035087/Untitled%202.png)
+    ![Untitled](https://user-images.githubusercontent.com/102518623/160393268-c8535667-5ac8-41f4-8e75-246c8ab456c1.png)
